@@ -1,0 +1,33 @@
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe.config
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.pdb
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.AssemblyReference.cache
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.SuggestedBindingRedirects.cache
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Main.resources
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Properties.Resources.resources
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.GenerateResource.cache
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.CoreCompileInputs.cache
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\Lab1 C# Basic\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.pdb
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.AssemblyReference.cache
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.SuggestedBindingRedirects.cache
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Main.resources
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Properties.Resources.resources
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.GenerateResource.cache
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.CoreCompileInputs.cache
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.pdb
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe.config
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.pdb
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe.config
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\bin\Debug\GluttonousSnake.pdb
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.AssemblyReference.cache
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.SuggestedBindingRedirects.cache
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Main.resources
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.Properties.Resources.resources
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.GenerateResource.cache
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.csproj.CoreCompileInputs.cache
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.exe
+C:\MyData\C#_Database\Homeworks\Lab2 GluttonousSnake\GluttonousSnake\obj\Debug\GluttonousSnake.pdb
